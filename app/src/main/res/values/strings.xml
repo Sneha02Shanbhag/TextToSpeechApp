@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextToSpeechApp</string>
+    <string name="select_txt_pdf_file">Select TXT/PDF File</string>
+    <string name="text_will_appear_here">Text will appear here...</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="save_as_audio">Save as Audio</string>
+</resources>
